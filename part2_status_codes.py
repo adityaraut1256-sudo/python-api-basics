@@ -9,6 +9,7 @@ Learn:
 - Accessing specific fields from API response
 """
 #part 2
+#3
 
 import requests
 

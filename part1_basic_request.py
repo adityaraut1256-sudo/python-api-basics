@@ -8,6 +8,8 @@ Learn: How to make a simple GET request and view the response.
 We'll use JSONPlaceholder - a free fake API for testing.
 """
 #part 1
+#1
+
 
 import requests
 

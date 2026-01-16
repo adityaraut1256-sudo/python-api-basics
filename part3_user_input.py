@@ -9,6 +9,7 @@ Learn:
 - Query parameters in URLs
 """
 #part 3
+#3
 
 import requests
 
