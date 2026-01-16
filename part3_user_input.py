@@ -8,6 +8,7 @@ Learn:
 - Building URLs with f-strings
 - Query parameters in URLs
 """
+#part 3
 
 import requests
 

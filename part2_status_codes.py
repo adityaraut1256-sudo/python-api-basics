@@ -8,6 +8,7 @@ Learn:
 - Parsing JSON data like a Python dictionary
 - Accessing specific fields from API response
 """
+#part 2
 
 import requests
 

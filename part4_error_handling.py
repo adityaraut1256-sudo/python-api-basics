@@ -9,6 +9,7 @@ Learn:
 - Timeout handling
 - Response validation
 """
+#part 4
 
 import requests
 from requests.exceptions import (
